@@ -1,0 +1,1 @@
+An efficient and customizable motor driver circuit designed for DC motor control (up to 12V/5A), suitable for robotics, automation, and DIY electronics projects. Built with MOSFETs and PWM support for speed/direction control.
